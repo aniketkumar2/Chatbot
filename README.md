@@ -5,7 +5,7 @@ It responds to user inputs with predefined rules using if-else pattern matching.
 
 ## 🚀 Features
 - User & bot messages aligned like a real chat app  
-- Predefined responses for greetings, jokes, time/date, etc.  
+- Predefined responses for greetings, jokes, time/date, etc 
 - Smooth UI with Material-UI components  
 - Auto-scroll to latest message  
 
